@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.teamCard-con {
+  display: flex;
+  flex-direction: row;
+  padding: 10px;
+  align-items: center;
+  background-color: #ffffff33;
+  border: 1px solid #ffffff;
+  border-radius: 10px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  cursor: pointer;
+  min-height: 100px;
+}
+.teamCard-logo {
+  height: 80px;
+}
+.teamCard-head {
+  width: 75%;
+  text-align: center;
+}
+.link-item {
+  color: #ffffff;
+  text-decoration: none;
+  width: 45%;
+}
